@@ -3,7 +3,7 @@
 Welcome to the repository for my personal portfolio website! This project showcases my skills, projects, and experiences in a clean and professional design. 
 
 ## Live Preview
-You can view the live version of my portfolio website here: [My Portfolio Website]([https://github.com/Aryan-01-star/My-Portfolio-Website.git](https://portfolio-akp.netlify.app/)) 🌐
+You can view the live version of my portfolio website here: [My Portfolio Website](https://portfolio-akp.netlify.app/) 🌐
 
 ## Features
 - 🔧 **Responsive Design**: Optimized for viewing on desktops, tablets, and mobile devices.
